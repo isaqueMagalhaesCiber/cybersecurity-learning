@@ -1,4 +1,4 @@
-# 🔎 Network Scan with Nmap
+# Network Scan with Nmap
 
 ## 📌 Objective
 Learn how to scan a network to identify active hosts, open ports, and running services using Nmap.
